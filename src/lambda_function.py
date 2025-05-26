@@ -1,0 +1,1 @@
+# Código da AWS Lambda SNS
